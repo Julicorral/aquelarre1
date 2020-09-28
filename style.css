@@ -50,7 +50,6 @@ i {
 h3 {
   padding-bottom: 30px;
   font-family: 'Open Sans Condensed', sans-serif;
-  margin-left: 15px;
 }
 
 h4 {
@@ -60,6 +59,7 @@ h4 {
   text-align: center;
   font-style: italic;
   font-weight: bold;
+  font-size: 1.6em;
 }
 
 .btn {
@@ -96,10 +96,70 @@ textarea {
 
 @keyframes title-anim {
   0% {color: black;}
-  50% {color: #6d6137;}
+  50% {color: #96864e;}
   100% {color: black;}
 }
 
 textarea {
     height: auto;
+}
+
+#prod-fac {
+  color: #4b4326;
+  background-image: url("./faci2.jpeg");
+  padding-top: 95px;
+  padding-bottom: 95px;
+  text-shadow: 3px 3px #ebdbc5;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#prod-corp {
+  color: #4b4326;
+  background-image: url("./corporales1.jpeg");
+  padding-top: 95px;
+  padding-bottom: 95px;
+  text-shadow: 3px 3px #ebdbc5;;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#jabo {
+  color: #4b4326;
+  background-image: url("./jabones.jpeg");
+  padding-top: 95px;
+  padding-bottom: 95px;
+  text-shadow: 3px 3px #ebdbc5;;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#prod-cap {
+  color: #4b4326;
+  background-image: url("./capi7.jpeg");
+  padding-top: 95px;
+  padding-bottom: 95px;
+  text-shadow: 3px 3px #ebdbc5;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#higiene {
+  color: #4b4326;
+  background-image: url("./higiene3.jpeg");
+  padding-top: 95px;
+  padding-bottom: 95px;
+  text-shadow: 3px 3px #ebdbc5;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#sah {
+  color: #4b4326;
+  background-image: url("./sahumos1.jpeg");
+  padding-top: 95px;
+  padding-bottom: 95px;
+  text-shadow: 3px 3px #ebdbc5;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
