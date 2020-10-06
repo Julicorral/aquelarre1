@@ -38,13 +38,17 @@ p {
 }
 
 footer {
-  padding: 70px;
-  background: linear-gradient(to bottom right, #d1b099, #ebdbc5)
+  padding-top: 50px;
+  background: linear-gradient(to bottom right, #d1b099, #ebdbc5);
+  text-align: center;
 }
 
 i {
-  padding-left: 20px;
   font-size: 50px;
+}
+
+.fa-instagram, .fa-pinterest-square {
+  padding-left: 20px;
 }
 
 h3 {
@@ -163,3 +167,12 @@ textarea {
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
+.copyright {
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
